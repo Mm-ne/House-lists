@@ -1,0 +1,21 @@
+td{
+    border-bottom: 2px solid rgba(254, 93, 0, 0.303);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 26px;
+    padding: 18px; 
+    max-width: fit-content;
+    
+}
+.tr_HR:hover{
+    
+    background-color: rgba(171, 168, 164, 0.315);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.address{
+    text-align: left;
+    padding-right: 150px;
+    padding-left: 50px;
+}
